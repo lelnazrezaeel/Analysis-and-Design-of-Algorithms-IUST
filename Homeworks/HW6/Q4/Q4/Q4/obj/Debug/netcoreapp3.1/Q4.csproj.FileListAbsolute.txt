@@ -1,0 +1,14 @@
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.exe
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.deps.json
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.runtimeconfig.json
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.runtimeconfig.dev.json
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.dll
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.pdb
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.csproj.AssemblyReference.cache
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.AssemblyInfoInputs.cache
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.AssemblyInfo.cs
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.csproj.CoreCompileInputs.cache
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.dll
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.pdb
+E:\University\Term8\Algorithm\Homeworks\HW6\Q4\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.genruntimeconfig.cache

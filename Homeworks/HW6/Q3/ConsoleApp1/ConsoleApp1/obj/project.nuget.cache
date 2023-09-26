@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gDAhEfguWMrRK7ijrIt6CKzteeYYs+YBAdZQqWZYRYskpaBb1wXAaq+dDP0GluLMydwQKDBb4OLz2ULNbIm37w==",
+  "success": true,
+  "projectFilePath": "E:\\University\\Term8\\Algorithm\\Homeworks\\HW6\\Q3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

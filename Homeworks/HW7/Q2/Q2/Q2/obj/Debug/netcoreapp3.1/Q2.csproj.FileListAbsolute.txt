@@ -1,0 +1,14 @@
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CoreCompileInputs.cache
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.genruntimeconfig.cache
+E:\University\Term8\Algorithm\Homeworks\HW7\Q2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.AssemblyReference.cache

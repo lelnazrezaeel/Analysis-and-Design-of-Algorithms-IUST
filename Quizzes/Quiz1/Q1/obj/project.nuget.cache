@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtlVon/QQ7nmVvGnvM2ISLuo+tRxMa/mKP6EplLS5EoQQp6/0m3YJhNXImXVsXwD37jzZ3xx3yiDXZ+uBNXpSw==",
+  "success": true,
+  "projectFilePath": "E:\\University\\Term8\\Algorithm\\Quiz\\Q1\\Q1\\Q1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

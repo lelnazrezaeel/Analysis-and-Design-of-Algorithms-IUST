@@ -1,0 +1,14 @@
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.AssemblyReference.cache
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+E:\University\Term8\Algorithm\Quiz\Q2\Q1\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache

@@ -34,12 +34,12 @@ My solutions to IUST's Analysis and Design of Algorithms, Fall 2023, Dr. Malekim
 - Description: Homework 8 addresses maximum flow problems.
 - Answers: [Link to HW8 Folder](https://github.com/lelnazrezaeel/Analysis-and-Design-of-Algorithms-IUST/tree/main/Homeworks/HW8)
 
-### Notes
+## <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/41b883/external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2.png" alt="Notes"/> Notes
 This section contains lecture notes and materials provided by the professor.
 
 - [Link to Notes](https://github.com/lelnazrezaeel/Analysis-and-Design-of-Algorithms-IUST/tree/main/Notes)
 
-### Quizzes
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/quiz.png" alt="quiz"/> Quizzes
 This section includes quizzes organized by subject.
 
 - [Link to Quizzes](https://github.com/lelnazrezaeel/Analysis-and-Design-of-Algorithms-IUST/tree/main/Quizzes)

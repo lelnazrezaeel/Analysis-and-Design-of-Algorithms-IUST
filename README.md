@@ -1,5 +1,5 @@
 # Analysis-and-Design-of-Algorithms-IUST
-My solutions to IUST's Analysis and Design of Algorithms, Fall 2023, Dr. Malekimajd.
+My solutions to IUST's Analysis and Design of Algorithms, Spring 2023, Dr. Malekimajd.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1
